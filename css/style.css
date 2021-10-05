@@ -1085,3 +1085,12 @@ a:focus {
 .my-float3{
 	margin-top:13px;
 }
+.float:hover{
+color : #FFF;
+}
+.float1:hover{
+color : #FFF;
+}
+.float2:hover{
+color : #FFF;
+}
