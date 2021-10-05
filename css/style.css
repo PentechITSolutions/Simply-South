@@ -1021,7 +1021,7 @@ a:focus {
 	border-radius:50px;
 	text-align:center;
   font-size:25px;
-	box-shadow: 2px 2px 3px #999;
+	/*box-shadow: 2px 2px 3px #999;*/
   z-index:100;
 }
 
@@ -1040,7 +1040,7 @@ a:focus {
 	border-radius:50px;
 	text-align:center;
   font-size:25px;
-	box-shadow: 2px 2px 3px #999;
+	/*box-shadow: 2px 2px 3px #999;*/
   z-index:100;
 }
 
@@ -1059,7 +1059,7 @@ a:focus {
 	border-radius:50px;
 	text-align:center;
   font-size:25px;
-	box-shadow: 2px 2px 3px #999;
+	/*box-shadow: 2px 2px 3px #999;*/
   z-index:100;
 }
 
@@ -1078,7 +1078,7 @@ a:focus {
 	border-radius:50px;
 	text-align:center;
   font-size:25px;
-	box-shadow: 1px 1px 2px #999;
+	/*box-shadow: 1px 1px 2px #999;*/
   z-index:100;
 }
 
