@@ -1074,7 +1074,7 @@ a:focus {
 	bottom:40px;
 	left:40px;
 	background-color:#016839;
-	color:#FFF;
+	color:#01ae5d;
 	border-radius:50px;
 	text-align:center;
   font-size:25px;
@@ -1084,13 +1084,4 @@ a:focus {
 
 .my-float3{
 	margin-top:13px;
-}
-.float:hover{
-color : white;
-}
-.float1:hover{
-color : white;
-}
-.float2:hover{
-color : white;
 }
